@@ -1,3 +1,5 @@
+package com.joshuayingwhat.agent;
+
 import java.lang.instrument.Instrumentation;
 
 public class SimpleAgent {
